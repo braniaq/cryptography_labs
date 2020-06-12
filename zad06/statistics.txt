@@ -1,0 +1,59 @@
+#Niektóre litery (chyba arabskie) odwracają orientacje poziomą dadanej linijki.
+#Przez to niektóre znaki są po złej stronie tabeli.
+
+entropy
+4.72854410333066
+
+metric entropy
+0.007589958432312456
+char 	 count
+ƹ	1
+গ	62
+০	22
+ֿ	34
+ź	37
+॔	29
+ਐ	85
+ˠ	12
+ޣ	25
+Ƭ	13
+ӕ	15
+થ	22
+μ	10
+߫	35
+ஶ	30
+ޒ	15
+ࢪ	16
+௑	18
+अ	21
+ଢ଼	12
+͹	15
+ƒ	5
+ƕ	3
+Ā	6
+å	1
+ߟ	3
+׀	1
+ࠥ	1
+Ј	1
+ݦ	9
+܀	6
+Ē	2
+ټ	6
+҄	13
+ࡧ	4
+ҝ	5
+ࡁ	4
+ٱ	1
+ƛ	1
+ਉ	1
+્	1
+ય	6
+প	2
+؎	2
+ϩ	1
+ȷ	1
+ǁ	4
+Ͳ	1
+٩	2
+୾	1
